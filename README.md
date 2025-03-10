@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>    ♥️ I enjoy programming, researching and sharing knowledge<br><br>    🌱 I’m currently learning Python<br><br>    💬 Ask me about CSS3, JavaScript, Bootstrap, React & Tailwind CSS<br><br>    🥅 2024 Goals: Get a job as a Developer<br><br>    👨‍💻 All of my projects are available at [https://github.com/alrifatsabbir?tab=repositories]<br><br>    💻 Most used line of code console.log("hello world")<br><br>    📫 How to reach me alrifatsabbir@gmail.com<br><br>    ⚡ Fun fact : ...I love to travel, researching and teaching.<br>
+<br><br>    ♥️ I enjoy programming, researching and sharing knowledge<br><br>    🌱 I’m currently learning C<br><br>    💬 Ask me about CSS3, JavaScript, Bootstrap, React & Tailwind CSS<br><br>    🥅 2024 Goals: Get a job as a Developer<br><br>    👨‍💻 All of my projects are available at [https://github.com/alrifatsabbir?tab=repositories]<br><br>    💻 Most used line of code console.log("hello world")<br><br>    📫 How to reach me alrifatsabbir@gmail.com<br><br>    ⚡ Fun fact : ...I love to travel, researching and teaching.<br>
 
 
 ## 🌐 Socials:
