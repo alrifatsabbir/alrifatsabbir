@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alrifatsabbir&label=Profile%20views&color=0e75b6&style=flat" alt="alrifatsabbir" /> </p>
 
-<p align="left"> <a href="https://github.com/alrifatsabbir?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=alrifatsabbir" alt="alrifatsabbir" /></a> </p>
+<p align="left"> <a href="https://github.com/alrifatsabbir?tab=repositories"></a> </p>
 
-- 🔭 I’m currently working on **CICO**
+- 🔭 I’m currently working on **SpenceTracker**
 
-- 🌱 I’m currently learning **C, Python, Rust**
+- 🌱 I’m currently learning **Rust, C++**
 
 - 👨‍💻 All of my projects are available at [https://alrifatsabbir.netlify.app/](https://alrifatsabbir.netlify.app/)
 
