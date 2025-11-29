@@ -51,7 +51,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alrifatsabbir&size_weight=0.5&count_weight=0.5&langs_count=9&layout=donut-vertical&theme=transparent)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alrifatsabbir&show_icons=github&theme=transparent)
+![alrifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=alrifatsabbir&show_icons=github&theme=transparent)
 
 <a href="https://github.com/alrifatsabbir/github-readme-stats&theme=transparent">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alrifatsabbir&repo=notecreep&theme=transparent" />
