@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm alrifatsabbir</h1>
 <h3 align="center">An enthusiast and problem solver. I love building new programs and projects all the time.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alrifatsabbir&label=Profile%20views&color=0e75b6&style=flat" alt="alrifatsabbir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alrifatsabbir&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="alrifatsabbir" /> </p>
 
 <p align="left"> <a href="https://github.com/alrifatsabbir?tab=repositories"></a> </p>
 
