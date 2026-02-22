@@ -1,59 +1,75 @@
-<h1 align="center">Hi 👋, I'm alrifatsabbir</h1>
-<h3 align="center">An enthusiast and problem solver. I love building new programs and projects all the time.</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=alrifatsabbir&fontSize=80&animation=fadeIn" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alrifatsabbir&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="alrifatsabbir" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alrifatsabbir&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="alrifatsabbir" />
+</div>
 
-<p align="left"> <a href="https://github.com/alrifatsabbir?tab=repositories"></a> </p>
+---
 
-- 🔭 I’m currently working on **SpenceTracker**
-
+### 🚀 Status Report
+- 🔭 I’m currently working on **[SpenceTracker](https://github.com/alrifatsabbir/SpenceTracker)**
 - 🌱 I’m currently learning **Rust, C++**
-
-- 👨‍💻 All of my projects are available at [https://alrifatsabbir.netlify.app/](https://alrifatsabbir.netlify.app/)
-
+- 👨‍💻 Portfolio: [alrifatsabbir.netlify.app](https://alrifatsabbir.netlify.app/)
 - 💬 Ask me about **React, Node, GSAP, Framer**
+- 📫 Reach me: **alrifatsabbir@gmail.com**
+- 📄 Experience: [Resume](https://alrifatsabbir.netlify.app/resume)
+- ⚡ Fun fact: **Difficult problems are easier for me than easy ones.**
 
-- 📫 How to reach me **alrifatsabbir@gmail.com**
+---
 
-- 📄 Know about my experiences [https://alrifatsabbir.netlify.app/resume](https://alrifatsabbir.netlify.app/resume)
-
-- ⚡ Fun fact **Difficult problems are easy for me than easier problems.**
-
-
-
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Professional Stack
 <p align="left">
-<a href="https://codepen.io/alrifatsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alrifatsabbir" height="30" width="40" /></a>
-<a href="https://dev.to/alrifatsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alrifatsabbir" height="30" width="40" /></a>
-<a href="https://twitter.com/alrifatsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alrifatsabbir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alrifatsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alrifatsabbir" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/24326530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24326530" height="30" width="40" /></a>
-<a href="https://codesandbox.com/alrifatsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="alrifatsabbir" height="30" width="40" /></a>
-<a href="https://kaggle.com/alrifatsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alrifatsabbir" height="30" width="40" /></a>
-<a href="https://fb.com/alrifatsabbir1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alrifatsabbir1" height="30" width="40" /></a>
-<a href="https://instagram.com/alrifatsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alrifatsabbir" height="30" width="40" /></a>
-<a href="https://www.behance.net/alrifatsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alrifatsabbir" height="30" width="40" /></a>
-<a href="https://medium.com/alrifatsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="alrifatsabbir" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/alrifatsabbir" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="alrifatsabbir" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/alrifatsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alrifatsabbir" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/alrifatsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alrifatsabbir" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/alrifatsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alrifatsabbir" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,rust,java,express,nodejs,next,react,vite,threejs,bootstrap,tailwind,html,css,markdown,firebase,supabase,mongodb,git,github,ps,ai,pr,postman,redis,redux,aws,cloudflare,npm,pnpm,vscode,webstorm,clion,svg,vercel,netlify,powershell,heroku&theme=dark" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/alrifatsabbir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alrifatsabbir" /></a></p>
-<br/>
-<br/>
-<br/>
+### 📊 GitHub Analytics
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alrifatsabbir&show_icons=true&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&bg_color=00000000" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alrifatsabbir&layout=compact&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&bg_color=00000000" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alrifatsabbir&size_weight=0.5&count_weight=0.5&langs_count=9&layout=donut-vertical&theme=transparent)
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=alrifatsabbir&theme=transparent&stroke=0e75b6&fire=0e75b6&ring=0e75b6&currStreakLabel=0e75b6" />
+</p>
 
-<a href="https://github.com/alrifatsabbir/github-readme-stats&theme=transparent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alrifatsabbir&repo=notecreep&theme=transparent" />
+---
+
+### 🏗️ Featured Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alrifatsabbir&repo=notecreep&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alrifatsabbir&repo=cico&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&bg_color=00000000" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/alrifatsabbir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/alrifatsabbir"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.leetcode.com/alrifatsabbir"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://codeforces.com/profile/alrifatsabbir"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/24326530"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+<a href="https://dev.to/alrifatsabbir"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+<a href="https://medium.com/alrifatsabbir"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://codepen.io/alrifatsabbir"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+<a href="https://codesandbox.com/alrifatsabbir"><img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
+<a href="https://www.behance.net/alrifatsabbir"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
+<a href="https://kaggle.com/alrifatsabbir"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/alrifatsabbir"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/alrifatsabbir"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://fb.com/alrifatsabbir1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://instagram.com/alrifatsabbir"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+### ☕ Support
+<p align="left">
+<a href="https://www.buymeacoffee.com/alrifatsabbir"> 
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alrifatsabbir" />
 </a>
-<a href="https://github.com/alrifatsabbir/github-readme-stats&theme=transparent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alrifatsabbir&repo=cico&theme=transparent" />
-</a>
+</p>
