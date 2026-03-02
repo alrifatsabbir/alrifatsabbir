@@ -11,7 +11,7 @@
 ### 🚀 Status Report
 - 🔭 I’m currently working on **[SpenceTracker](https://github.com/alrifatsabbir/SpenceTracker)**
 - 🌱 I’m currently learning **Rust, C++**
-- 👨‍💻 Portfolio: [alrifatsabbir.netlify.app](https://alrifatsabbir.netlify.app/)
+- 👨‍💻 Portfolio: [alrifatsabbir.me](https://alrifatsabbir.netlify.app/)
 - 💬 Ask me about **React, Node, GSAP, Framer**
 - 📫 Reach me: **alrifatsabbir@gmail.com**
 - 📄 Experience: [Resume](https://alrifatsabbir.netlify.app/resume)
