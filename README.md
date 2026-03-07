@@ -21,7 +21,7 @@
 
 ### 🛠️ Professional Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,rust,java,express,nodejs,next,react,vite,threejs,bootstrap,tailwind,html,css,markdown,firebase,supabase,mongodb,git,github,ps,ai,pr,postman,redis,redux,aws,cloudflare,npm,pnpm,vscode,webstorm,clion,svg,vercel,netlify,powershell,heroku&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,rust,java,express,nodejs,next,react,vite,threejs,bootstrap,tailwind,html,css,markdown,firebase,supabase,mongodb,git,github,ps,ai,pr,postman,redis,redux,aws,cloudflare,npm,pnpm,vscode,webstorm,clion,svg,vercel,netlify,powershell,heroku,latex&theme=dark" />
 </p>
 
 ---
