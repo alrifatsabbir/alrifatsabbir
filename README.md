@@ -10,7 +10,7 @@
 
 ### 🚀 Status Report
 - 🔭 I’m currently working on **[SpenceTracker](https://github.com/alrifatsabbir/SpenceTracker)**
-- 🌱 I’m currently learning **Rust, C++**
+- 🌱 I’m currently learning **C++**
 - 👨‍💻 Portfolio: [alrifatsabbir.me](https://alrifatsabbir.netlify.app/)
 - 💬 Ask me about **React, Node, GSAP, Framer**
 - 📫 Reach me: **alrifatsabbir@gmail.com**
