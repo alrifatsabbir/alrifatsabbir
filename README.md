@@ -9,12 +9,12 @@
 ---
 
 ### 🚀 Status Report
-- 🔭 I’m currently working on **[SpenceTracker](https://github.com/alrifatsabbir/SpenceTracker)**
+- 🔭 I’m currently building my **[Portfolio](https://github.com/alrifatsabbir/portfolio)**
 - 🌱 I’m currently learning **C++**
-- 👨‍💻 Portfolio: [alrifatsabbir.me](https://alrifatsabbir.netlify.app/)
+- 👨‍💻 Portfolio: [alrifatsabbir.me](https://alrifatsabbir.me/)
 - 💬 Ask me about **React, Node, GSAP, Framer**
 - 📫 Reach me: **alrifatsabbir@gmail.com**
-- 📄 Experience: [Resume](https://alrifatsabbir.netlify.app/resume)
+- 📄 Experience: [Resume](https://alrifatsabbir.me/resume)
 - ⚡ Fun fact: **Difficult problems are easier for me than easy ones.**
 
 ---
