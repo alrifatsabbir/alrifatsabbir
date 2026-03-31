@@ -15,7 +15,6 @@
 - 💬 Ask me about **React, Node, GSAP, Framer**
 - 📫 Reach me: **alrifatsabbir@gmail.com**
 - 📄 Experience: [Resume](https://alrifatsabbir.me/resume)
-- ⚡ Fun fact: **Difficult problems are easier for me than easy ones.**
 
 ---
 
