@@ -27,23 +27,22 @@
 ---
 
 ### 📊 GitHub Analytics
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alrifatsabbir&show_icons=true&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&bg_color=00000000" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alrifatsabbir&layout=compact&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&bg_color=00000000" />
-</p>
 
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=alrifatsabbir&theme=transparent&stroke=0e75b6&fire=0e75b6&ring=0e75b6&currStreakLabel=0e75b6" />
-</p>
+![GitHub stats](https://git-stats-studio.vercel.app/api/stats?username=alrifatsabbir&theme=cyberpunk&style=cyber&hide_border=true)
+
+![GitHub streak](https://git-stats-studio.vercel.app/api/streak?username=alrifatsabbir&theme=cyberpunk&style=cyber&hide_border=true)
+
+---
+###  Top Langs
+
+![GitHub top-langs](https://git-stats-studio.vercel.app/api/top-langs?username=alrifatsabbir&theme=cyberpunk&style=cyber&hide_border=true)
 
 ---
 
 ### 🏗️ Featured Projects
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alrifatsabbir&repo=notecreep&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alrifatsabbir&repo=cico&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&bg_color=00000000" />
-</p>
+![GitHub top-repos](https://git-stats-studio.vercel.app/api/top-repos?username=alrifatsabbir&theme=glass&style=modern&limit=3&hide_border=true)
 
+![GitHub pin](https://git-stats-studio.vercel.app/api/pin?username=alrifatsabbir&theme=cyberpunk&style=cyber&repo=nsdahr&hide_border=true)
 ---
 
 ### 🤝 Connect With Me
