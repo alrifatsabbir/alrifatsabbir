@@ -42,7 +42,8 @@
 ### 🏗️ Featured Projects
 ![GitHub top-repos](https://git-stats-studio.vercel.app/api/top-repos?username=alrifatsabbir&theme=glass&style=modern&limit=3&hide_border=true)
 
-![GitHub pin](https://git-stats-studio.vercel.app/api/pin?username=alrifatsabbir&theme=cyberpunk&style=cyber&repo=nsdahr&hide_border=true)
+![GitHub pin](https://git-stats-studio.vercel.app/api/pin?username=alrifatsabbir&theme=cyberpunk&style=cyber&hide_border=true)
+
 ---
 
 ### 🤝 Connect With Me
