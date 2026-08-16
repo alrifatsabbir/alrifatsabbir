@@ -79,7 +79,7 @@
 </p>
 
 <p align="center">
-  <img src="https://git-stats-studio.vercel.app/api/pin?username=alrifatsabbir&theme=cyberpunk&style=cyber&hide_border=true" alt="GitHub pin" />
+  <img src="https://git-stats-studio.vercel.app/api/pin?username=alrifatsabbir&repo=GitStatsStudio&theme=cyberpunk&style=cyber&hide_border=true" alt="GitHub pin" />
 </p>
 
 </div>
