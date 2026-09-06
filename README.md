@@ -22,10 +22,10 @@
 
 ### 🚀 Status Report
 - 🔭 I’m currently building my **[Portfolio](https://github.com/alrifatsabbir/portfolio)**
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **RUST & JAVA**
 - 👨‍💻 Portfolio: [alrifatsabbir.me](https://alrifatsabbir.me/)
 - 💬 Ask me about **React, Node, GSAP, Framer**
-- 📫 Reach me: **alrifatsabbir@gmail.com**
+- 📫 Reach me: **[info@alifatsabbir.me](mailto:info@alrifatsabbir.me)**
 - 📄 Experience: [Resume](https://alrifatsabbir.me/resume)
 
 
