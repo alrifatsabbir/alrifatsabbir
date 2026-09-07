@@ -11,29 +11,45 @@
 
 <div align="center">
 
-### 🏆 Achievments
-  
-  <img src="https://git-stats-studio.vercel.app/api/achievements?username=alrifatsabbir&theme=cyberpunk&style=cyber&animate=true" alt="GitHub achievements" />
+### 🏆 Achievements & Badges
+
+<img src="https://git-stats-studio.vercel.app/api/achievements?username=alrifatsabbir&theme=cyberpunk&style=modern&limit=6&cols=3&scale=1.5" alt="GitHub achievements" />
+
 </div>
 
 ---
 
+<div align="center">
 
+### 🥇 Trophy Showcase
+
+<img src="https://git-stats-studio.vercel.app/api/trophies?username=alrifatsabbir&theme=cyberpunk&column=6&animate=false&scale=1.3" alt="GitHub trophies" />
+
+</div>
+
+---
+<div align="center">
 
 ### 🚀 Status Report
-- 🔭 I’m currently building my **[Portfolio](https://github.com/alrifatsabbir/portfolio)**
-- 🌱 I’m currently learning **RUST & JAVA**
-- 👨‍💻 Portfolio: [alrifatsabbir.me](https://alrifatsabbir.me/)
-- 💬 Ask me about **React, Node, GSAP, Framer**
-- 📫 Reach me: **[info@alifatsabbir.me](mailto:info@alrifatsabbir.me)**
-- 📄 Experience: [Resume](https://alrifatsabbir.me/resume)
 
+<img src="https://git-stats-studio.vercel.app/api/typing?theme=gruvbox-dark&style=compact&font_family=Fira+Code&scale=1.4&lines=-+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+I%27m+AL+RIFAT+SABBIR%0A-+%F0%9F%94%AD+I%E2%80%99m+currently+building+SaaS%3B%0A-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+RUST+%26+JAVA%3B%0A-+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Portfolio%3A+https%3A%2F%2Falrifatsabbir.me%3B%0A-+%F0%9F%92%AC+Ask+me+about+React%2C+Node%2C+Next.js%2C+GSAP%0A-+Thanks+for+Visiting" alt="GitHub typing" />
+</div>
+
+
+
+<div align="center">
+
+### 📄 Experience: [Resume](https://alrifatsabbir.me/resume)
+### 📫 Reach me: **[info@alrifatsabbir.me](mailto:info@alrifatsabbir.me)**
+
+</div>
 
 ---
 
 <div align="center">
 
 ### 🛠️ Professional Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,rust,java,express,nodejs,next,react,vite,threejs,bootstrap,tailwind,html,css,markdown,firebase,supabase,mongodb,git,github,ps,ai,pr,postman,redis,redux,aws,cloudflare,npm,pnpm,bun,vscode,webstorm,clion,svg,vercel,netlify,powershell,deno,tauri,heroku,latex&theme=dark" />
 </p>
@@ -47,11 +63,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://git-stats-studio.vercel.app/api/stats?username=alrifatsabbir&theme=cyberpunk&style=cyber&hide_border=true" alt="GitHub stats" />
+<img src="https://git-stats-studio.vercel.app/api/stats?username=alrifatsabbir&theme=cyberpunk&style=cyber&scale=1.8&hide_border=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://git-stats-studio.vercel.app/api/streak?username=alrifatsabbir&theme=cyberpunk&style=cyber&hide_border=true" alt="GitHub streak" />
+  <img src="https://git-stats-studio.vercel.app/api/streak?username=alrifatsabbir&theme=cyberpunk&style=cyber&hide_border=true&width=470&height=220" alt="GitHub streak" />
+  <img src="https://git-stats-studio.vercel.app/api/rank?username=alrifatsabbir&theme=cyberpunk&style=cyber&hide_border=true&width=400&height=220" alt="GitHub rank" />
 </p>
 
 </div>
@@ -60,10 +77,13 @@
 
 <div align="center">
 
-### 🎯 Top Langs
+### 🎯 Languages & Coding Habits
 
 <p align="center">
-  <img src="https://git-stats-studio.vercel.app/api/top-langs?username=alrifatsabbir&theme=cyberpunk&style=cyber&hide_border=true" alt="GitHub top-langs" />
+<img src="https://git-stats-studio.vercel.app/api/top-langs?username=alrifatsabbir&theme=gruvbox-dark&style=modern&font_family=JetBrains+Mono&limit=8&hide=css&scale=1.5" alt="GitHub top-langs" />
+</p>
+<p align="center">
+  <img src="https://git-stats-studio.vercel.app/api/habits?username=alrifatsabbir&theme=gruvbox-dark&style=cyber&hide_border=true&scale=1.22" alt="GitHub habits" />
 </p>
 
 </div>
@@ -75,11 +95,20 @@
 ### 🏗️ Featured Projects
 
 <p align="center">
-  <img src="https://git-stats-studio.vercel.app/api/top-repos?username=alrifatsabbir&theme=glass&style=modern&limit=3&hide_border=true" alt="GitHub top-repos" />
+<img src="https://git-stats-studio.vercel.app/api/top-repos?username=alrifatsabbir&theme=gruvbox-dark&style=modern&font_family=JetBrains+Mono&height=210&limit=2&sort=stars&width=440" alt="GitHub top-repos" />
+<img src="https://git-stats-studio.vercel.app/api/pin?username=alrifatsabbir&theme=gruvbox-dark&style=modern&font_family=JetBrains+Mono&height=205&width=402" alt="GitHub pin" />
 </p>
 
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Contribution Heatmap
+
 <p align="center">
-  <img src="https://git-stats-studio.vercel.app/api/pin?username=alrifatsabbir&repo=GitStatsStudio&theme=cyberpunk&style=cyber&hide_border=true" alt="GitHub pin" />
+  <img src="https://git-stats-studio.vercel.app/api/contributions?username=alrifatsabbir&theme=gruvbox-dark&style=modern&responsive=true" alt="GitHub contributions" />
 </p>
 
 </div>
@@ -89,6 +118,7 @@
 <div align="center">
 
 ### 🤝 Connect With Me
+
 <p align="center">
   <a href="https://linkedin.com/in/alrifatsabbir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/alrifatsabbir"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -114,18 +144,11 @@
 <div align="center">
 
 ### ☕ Support
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/alrifatsabbir"> 
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alrifatsabbir" />
   </a>
 </p>
-
-</div>
-
----
-
-<div align="center">
-
-![GitHub contributions](https://git-stats-studio.vercel.app/api/contributions?username=alrifatsabbir&theme=cyberpunk&style=cyber&hide_border=true&animate=true)
 
 </div>
