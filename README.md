@@ -67,10 +67,11 @@
 </p>
 
 <p align="center">
-  <img src="https://git-stats-studio.vercel.app/api/streak?username=alrifatsabbir&theme=cyberpunk&style=cyber&hide_border=true&width=470&height=220" alt="GitHub streak" />
-  <img src="https://git-stats-studio.vercel.app/api/rank?username=alrifatsabbir&theme=cyberpunk&style=cyber&hide_border=true&width=400&height=220" alt="GitHub rank" />
+  <img src="https://git-stats-studio.vercel.app/api/streak?username=alrifatsabbir&theme=cyberpunk&style=cyber&hide_border=true&scale=1.6" alt="GitHub streak" />
 </p>
-
+<p align="center">
+  <img src="https://git-stats-studio.vercel.app/api/rank?username=alrifatsabbir&theme=cyberpunk&style=cyber&hide_border=true&scale=1.7" alt="GitHub rank" />
+</p>
 </div>
 
 ---
