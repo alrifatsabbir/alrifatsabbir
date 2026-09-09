@@ -81,7 +81,7 @@
 ### 🎯 Languages & Coding Habits
 
 <p align="center">
-<img src="https://git-stats-studio.vercel.app/api/top-langs?username=alrifatsabbir&theme=gruvbox-dark&style=modern&font_family=JetBrains+Mono&limit=8&hide=css&scale=1.5" alt="GitHub top-langs" />
+<img src="https://git-stats-studio.vercel.app/api/top-langs?username=alrifatsabbir&theme=gruvbox-dark&style=modern&font_family=JetBrains+Mono&limit=10&hide=css&scale=1.5" alt="GitHub top-langs" />
 </p>
 <p align="center">
   <img src="https://git-stats-studio.vercel.app/api/habits?username=alrifatsabbir&theme=gruvbox-dark&style=cyber&hide_border=true&scale=1.22" alt="GitHub habits" />
