@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=alrifatsabbir&fontSize=80&animation=fadeIn" />
 </div>
-
+<div align="center">
+ <img alt="Static Badge" src="https://img.shields.io/badge/alrifatsabbir-green?style=social&logo=github&link=https%3A%2F%2Falrifatsabbir.me">
+</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alrifatsabbir&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="alrifatsabbir" />
   <img src="https://img.shields.io/github/followers/alrifatsabbir?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
